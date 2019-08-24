@@ -2,128 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="294830f4-79cb-42f2-8a58-ff1ebd2736fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_10_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/regrep/RegrepExec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProject/LocationRpt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProject/RptUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProject/SchemaUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProject/Utils2Type.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProject/proCity.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProject/txt2Parquet.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/InternetEnvDistribute.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/OsDistribute.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/channelDistribute.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/deviceDistribute.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/ispDistribute.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/locationDistribute.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/mediaDistribute.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/sparkUtils/RqtUtils/JDBCConnectPoolsDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/sparkUtils/RqtUtils/RqtUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/standardDisitribute.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectMyself/JDBCConnectePoolsTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectMyself/SchemaUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectMyself/Utils2Type.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectMyself/proCity.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/adProjectMyself/text2Parquet.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/sparkProject2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/SchemaUtils$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/SchemaUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/Utils2Type$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/Utils2Type.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/proCity$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/proCity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/txt2Parquet$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/txt2Parquet$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/txt2Parquet$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/txt2Parquet$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProject/txt2Parquet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/InternetEnvDistribute$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/InternetEnvDistribute$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/InternetEnvDistribute$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/InternetEnvDistribute$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/InternetEnvDistribute$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/InternetEnvDistribute$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/InternetEnvDistribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/OsDistribute$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/OsDistribute$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/OsDistribute$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/OsDistribute$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/OsDistribute$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/OsDistribute$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/OsDistribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/channelDistribute$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/channelDistribute$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/channelDistribute$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/channelDistribute$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/channelDistribute$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/channelDistribute$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/channelDistribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/deviceDistribute$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/deviceDistribute$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/deviceDistribute$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/deviceDistribute$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/deviceDistribute$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/deviceDistribute$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/deviceDistribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute$$typecreator1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/ispDistribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/locationDistribute$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/locationDistribute$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/locationDistribute$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/locationDistribute$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/locationDistribute$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/locationDistribute$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/locationDistribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$3$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$4$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/result$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/sparkUtils/RqtUtils/RqtUtils$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/sparkUtils/RqtUtils/RqtUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/standardDisitribute$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/standardDisitribute$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/standardDisitribute$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/standardDisitribute$$anonfun$standardDistribute$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/standardDisitribute$$anonfun$standardDistribute$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/standardDisitribute$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/standardDisitribute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/SchemaUtils$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/SchemaUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/Utils2Type$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/Utils2Type.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/proCity$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/proCity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/text2Parquet$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/text2Parquet$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/text2Parquet$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/text2Parquet$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adProjectMyself/text2Parquet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/adProjectDay02/mediaDistribute.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/adProjectDay02/mediaDistribute.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$3$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$3$$anonfun$apply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$4$$anonfun$apply$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$4$$anonfun$apply$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/adProjectDay02/mediaDistribute$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -138,14 +25,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/adProjectDay02/sparkUtils/RqtUtils/JDBCConnectPoolsDemo.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsContext.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="386">
+              <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
               <folding>
-                <element signature="e#44#87#0" expanded="true" />
+                <element signature="e#18#61#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+              <folding>
+                <element signature="e#18#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsAppRedis.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+              <folding>
+                <element signature="e#18#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="673" column="33" lean-forward="true" selection-start-line="673" selection-start-column="33" selection-end-line="673" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -155,15 +75,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Package Object" />
         <option value="Class" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Integer</find>
+      <find>uid</find>
+      <find>limit</find>
     </findStrings>
+    <replaceStrings>
+      <replace>udid</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -192,26 +117,44 @@
         <option value="$PROJECT_DIR$/src/main/scala/adProjectDay02/deviceDistribute.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/adProjectDay02/OsDistribute.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/adProjectMyself/UtilsDict.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/adProjectDay02/mediaDistribute.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/adProjectDay02/channelDistribute.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/adProjectDay02/sparkUtils/RqtUtils/JDBCConnectPoolsDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/adProjectDay02/mediaDistribute.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/com/utils/TagUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/utils/Tag.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/exec/mediaDistribute.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/utils/TagUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/TagsAd.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/com/platformTags.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/com/PlatformTags.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/PlatformTags.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/Tagsdevice.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/TagsKeywork.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/TagsKeyword.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/TagsProCity.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/TagsApp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/TagsAppRedis.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/Tags/TagsContext.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="447" />
-    <option name="width" value="1525" />
-    <option name="height" value="1103" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="233" />
+    <option name="y" value="51" />
+    <option name="width" value="1675" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,8 +217,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="adProjectDay02" type="462c0819:PsiDirectoryNode" />
-              <item name="RqtUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sparkProject2" type="b2602c69:ProjectViewProjectNode" />
@@ -283,13 +225,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="adProjectMyself" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="exec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkProject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkProject2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,13 +289,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.channelDistribute">
+  <component name="RunManager" selected="Application.TagsContext">
     <configuration name="OsDistribute" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="adProjectDay02.OsDistribute" />
       <module name="sparkProject2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="adProjectDay02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TagsContext" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.Tags.TagsContext" />
+      <module name="sparkProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tags.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,19 +342,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deviceDistribute" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="adProjectDay02.deviceDistribute" />
-      <module name="sparkProject2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="adProjectDay02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="mediaDistribute" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="adProjectDay02.mediaDistribute" />
       <module name="sparkProject2" />
@@ -398,19 +356,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.deviceDistribute" />
       <item itemvalue="Application.OsDistribute" />
       <item itemvalue="Application.mediaDistribute" />
       <item itemvalue="Application.UtilsDict" />
       <item itemvalue="Application.channelDistribute" />
+      <item itemvalue="Application.TagsContext" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TagsContext" />
         <item itemvalue="Application.channelDistribute" />
         <item itemvalue="Application.mediaDistribute" />
         <item itemvalue="Application.UtilsDict" />
         <item itemvalue="Application.OsDistribute" />
-        <item itemvalue="Application.deviceDistribute" />
       </list>
     </recent_temporary>
   </component>
@@ -427,17 +385,26 @@
       <workItem from="1566358358083" duration="8407000" />
       <workItem from="1566371459994" duration="15026000" />
       <workItem from="1566435597944" duration="27435000" />
-      <workItem from="1566522882305" duration="276000" />
+      <workItem from="1566522882305" duration="32402000" />
+      <workItem from="1566607108808" duration="3159000" />
     </task>
+    <task id="LOCAL-00001" summary="8/23 commit from local">
+      <created>1566523212103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566523212103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51144000" />
+    <option name="totallyTimeSpent" value="86429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="358" y="0" width="1220" height="882" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3364888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2272118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -446,14 +413,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23654391" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.22804533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.7110482" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -469,7 +436,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21179625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22453083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -478,14 +445,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10056657" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.059490085" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.7110482" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -504,19 +471,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8/23 commit from local" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/23 commit from local" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sparkProject2.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/adProject/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/adProject/textToParquet.scala" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -524,13 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="2328" column="20" selection-start-line="2328" selection-start-column="20" selection-end-line="2328" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -659,16 +616,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/adProjectMyself/UtilsDict.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/adProjectDay02/mediaDistribute.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <element signature="e#24#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/adProjectDay02/deviceDistribute.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -725,6 +672,165 @@
           <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#44#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/com/utils/TagUtils.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/adProjectDay02/mediaDistribute.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+          <folding>
+            <element signature="e#24#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/Tag.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/exec/mediaDistribute.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/utils/TagUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/com/PlatformTags.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/PlatformTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#18#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsAd.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#18#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.0/spark-core_2.10-1.6.0.jar!/org/apache/spark/rdd/AsyncRDDActions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.0/spark-core_2.10-1.6.0-sources.jar!/org/apache/spark/rdd/AsyncRDDActions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="2348" column="33" selection-start-line="2348" selection-start-column="33" selection-end-line="2348" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsKeyword.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="53" lean-forward="true" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <element signature="e#18#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/Tagsdevice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+          <folding>
+            <element signature="e#18#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsProCity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#18#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="285" column="18" selection-start-line="285" selection-start-column="18" selection-end-line="285" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="673" column="33" lean-forward="true" selection-start-line="673" selection-start-column="33" selection-end-line="673" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <element signature="e#18#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+          <folding>
+            <element signature="e#18#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsAppRedis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="e#18#61#0" expanded="true" />
           </folding>
         </state>
       </provider>

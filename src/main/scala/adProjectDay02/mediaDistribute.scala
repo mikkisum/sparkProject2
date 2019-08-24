@@ -26,8 +26,11 @@ object mediaDistribute {
       val appName: String = arr(1)
       (appId, appName)
     })
+    //将读进来的数据进行存储成map
 
     val map: Map[String, String] = tups.collect().toMap
+
+    //使用广播变量进行广播
     val mapdict: Broadcast[Map[String, String]] = sc.broadcast(map)
 
     //获取数据
